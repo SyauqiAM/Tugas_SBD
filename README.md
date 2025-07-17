@@ -1,4 +1,4 @@
-# Tugas_SBD
+# Tugas_Sistem Basis Data
 
 # 🎉  SISTEM CRUD "APLIKASI MANAJEMEN OBAT OBATAN APOTEK"
 
