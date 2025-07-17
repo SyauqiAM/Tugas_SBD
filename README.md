@@ -6,7 +6,7 @@
 
 🔹 Aplikasi Java pada gambar tersebut adalah aplikasi manajemen data obat sederhana dengan fungsi CRUD (Create, Read, Update, Delete).
 
-## ✅ Tujuan Utama Aplikasi Manajemen Obat Ini:
+# ✅ Tujuan Utama Aplikasi Manajemen Obat Ini:
 
 ## ✅ Mencatat Data Obat dengan Rapi
 Menyimpan informasi penting seperti kode obat, nama obat, kategori, dan kode satuan ke dalam sistem yang mudah diakses.
