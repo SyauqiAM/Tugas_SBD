@@ -1,12 +1,12 @@
 # Tugas_SBD
 
-# 🎉  SISTEM CRUD "APLIKASI LIST OBAT OBATAN APOTEK"
+# 🎉  SISTEM CRUD "APLIKASI MANAJEMEN OBAT OBATAN APOTEK"
 
 <img width="488" height="580" alt="Image" src="https://github.com/user-attachments/assets/30cb911c-0384-4654-9413-ad488137d6d9" />
 
 🔹 Aplikasi Java pada gambar tersebut adalah aplikasi manajemen data obat sederhana dengan fungsi CRUD (Create, Read, Update, Delete).
 
-# ✅ Tujuan Utama Aplikasi Manajemen Obat Ini:
+# Tujuan Utama Aplikasi Manajemen Obat obatan Apotek Ini:
 
 ## ✅ Mencatat Data Obat dengan Rapi
 Menyimpan informasi penting seperti kode obat, nama obat, kategori, dan kode satuan ke dalam sistem yang mudah diakses.
