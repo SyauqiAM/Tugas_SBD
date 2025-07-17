@@ -2,7 +2,7 @@
 
 # 🎉  SISTEM CRUD "APLIKASI LIST OBAT OBATAN APOTEK"
 
-![Banner](<img width="488" height="580" alt="Image" src="https://github.com/user-attachments/assets/30cb911c-0384-4654-9413-ad488137d6d9" />)
+<img width="488" height="580" alt="Image" src="https://github.com/user-attachments/assets/30cb911c-0384-4654-9413-ad488137d6d9" />
 
 🔹 Deskripsi singkat dan menarik tentang proyek Anda
 
