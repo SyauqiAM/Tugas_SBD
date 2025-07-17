@@ -21,23 +21,27 @@ Pengguna bisa:
 - Menghapus obat yang tidak digunakan
 - Melihat semua data yang tersimpan dengan mudah
 
-🕒 Menghemat Waktu dan Mengurangi Kesalahan Manual
+## 🕒 Menghemat Waktu dan Mengurangi Kesalahan Manual
 Dibandingkan pencatatan manual, aplikasi ini membantu menghindari duplikasi data dan kesalahan penulisan.
 
-📊 Menjadi Dasar untuk Sistem Manajemen Stok atau Penjualan Obat
+## 📊 Menjadi Dasar untuk Sistem Manajemen Stok atau Penjualan Obat
 Aplikasi ini bisa dikembangkan lebih lanjut menjadi sistem inventori lengkap yang mencatat stok, harga, dan transaksi obat.
 
 ## ✨ Fitur fitur
-
-- Kolom Kode obat        - Tombol Tambah      - TABEL
-- Kolom Nama Obat        - Tombol Edit
-- Kolom Kategori obat    - Tombol Hapus
-- Kolom Kode Satuan      - Tombol Reset
+- Kolom Kode obat
+- Kolom Nama Obat 
+- Kolom Kategori obat
+- Kolom Kode Satuan
+- Tombol Tambah
+- Tombol Edit
+- Tombol Hapus
+- Tombol Reset
+- TABEL
 
 ## 🚀 Memulai
 
 ### Prasyarat
-- Node.js v14+
-- npm v6+
+- 
+  
 
 ### Instalasi
