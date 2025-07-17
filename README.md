@@ -38,7 +38,7 @@ Aplikasi ini bisa dikembangkan lebih lanjut menjadi sistem inventori lengkap yan
 - Tombol Reset
 - TABEL
 
-# 🚀 Berikut beberapa penjelasan dari setiap Gambar dari database PHPMyAdmin
+# 🚀 Berikut beberapa penjelasan setiap Gambar dari database PHPMyAdmin
 
 <img width="232" height="354" alt="Image" src="https://github.com/user-attachments/assets/4194b2bb-a357-4d1f-8bad-ea829bbf1805" /><img width="853" height="591" alt="Image" src="https://github.com/user-attachments/assets/cf8b3bb2-2a3e-4e69-81ce-a4266ca4a9a2" />
 
@@ -52,7 +52,7 @@ Dari gambar ini saya menggunakan phpmyadmin sebagai Alat berbasis web ini untuk 
 Melalui tampilan ini, pengguna dapat mengedit, menyalin, atau menghapus setiap data menggunakan tombol yang tersedia pada sisi kiri setiap baris data. Data yang ditampilkan pada tabel ini berasal dari hasil query `SELECT * FROM obat`, yang berarti semua data dalam tabel `obat` ditampilkan secara lengkap. Tabel ini merupakan bagian penting dari aplikasi manajemen obat berbasis Java. Aplikasi tersebut berinteraksi langsung dengan database ini, sehingga semua aktivitas penambahan, pengeditan, dan penghapusan data yang dilakukan melalui aplikasi akan tercermin di dalam tabel ini. Dengan menggunakan phpMyAdmin, pengelolaan database menjadi lebih mudah tanpa perlu menulis perintah SQL secara manual.
 
 
-# 🚀 Berikut beberapa penjelasan dari setiap Gambar dari Java Netbeans
+# 🚀 Berikut beberapa penjelasan setiap Gambar dari Java Netbeans
 
 
 <img width="388" height="480" alt="Image" src="https://github.com/user-attachments/assets/72432d00-362d-4a1d-b62d-80533c6c8d7e" />
@@ -65,6 +65,23 @@ Gambar tersebut menampilkan antarmuka dari sebuah aplikasi desktop berbasis Java
 
 Dalam gambar ini, tombol "Edit" tampak aktif atau sedang ditekan, yang menunjukkan bahwa pengguna akan atau sedang melakukan proses pengeditan terhadap salah satu baris data obat yang telah ditampilkan pada tabel di bagian bawah. Tabel tersebut berfungsi untuk menampilkan seluruh data obat yang telah dimasukkan, dengan kolom-kolom berupa Kode Obat, Nama Obat, Kategori Obat, dan Kode Satuan. Saat proses edit berlangsung, pengguna dapat memilih baris data tertentu dari tabel, lalu mengubah isinya melalui input field di atas, dan menekan tombol "Edit" untuk memperbarui data tersebut dalam database. Aplikasi ini sangat berguna untuk memastikan bahwa data obat dapat selalu diperbarui dan dijaga keakuratannya, serta memberikan pengalaman pengguna yang praktis dalam pengelolaan data berbasis GUI.
 
+
+<img width="288" height="380" alt="Image" src="https://github.com/user-attachments/assets/644eb5c4-a016-48d8-a4fe-bfa5ef81d752" />
+
+
+Tabel yang ditampilkan berisi data lengkap dari beberapa obat yang sudah tersimpan di dalam sistem, dengan kolom seperti Kode Obat, Nama Obat, Kategori Obat, dan Kode Satuan. Untuk melakukan proses penghapusan, pengguna terlebih dahulu memilih salah satu baris data pada tabel, kemudian menekan tombol "Hapus" untuk menghapus data tersebut dari database. Setelah data dihapus, baris tersebut akan hilang dari tabel tampilan. Fungsi ini sangat penting untuk menjaga integritas dan akurasi data, serta mempermudah proses manajemen data obat apabila ada entri yang tidak lagi digunakan atau dimasukkan secara tidak sengaja. Aplikasi ini merupakan contoh aplikasi CRUD (Create, Read, Update, Delete) sederhana yang memanfaatkan Java sebagai bahasa pemrograman dan database MySQL untuk menyimpan data.
+
+
+<img width="296" height="381" alt="Image" src="https://github.com/user-attachments/assets/0de55a3c-eb06-4640-81e5-c27989d64232" />
+
+
+Di bagian bawah kolom input, terdapat empat tombol utama yaitu "Tambah", "Edit", "Hapus", dan "Reset". Pada kondisi ini, jika pengguna ingin membatalkan proses input atau membersihkan form, maka tombol "Reset" dapat ditekan. Fungsi dari tombol "Reset" adalah untuk mengosongkan semua isian pada kolom input agar pengguna dapat memulai entri data baru tanpa gangguan dari data sebelumnya. Tabel di bagian bawah masih menampilkan seluruh data obat yang telah tersimpan dalam sistem, berisi delapan baris data dengan kolom Kode Obat, Nama Obat, Kategori Obat, dan Kode Satuan. Fungsi reset sangat berguna dalam mencegah kesalahan input data dan memastikan bahwa pengguna dapat memulai proses entri baru dengan kondisi form yang bersih dan siap digunakan kembali.
+
+
+<img width="294" height="382" alt="Image" src="https://github.com/user-attachments/assets/e4113d6a-622c-460e-b3b4-842507591057" />
+
+
+Meskipun form input sudah kosong, tabel di bagian bawah masih menampilkan data obat secara lengkap, yang artinya fungsi reset hanya memengaruhi tampilan form input dan tidak menghapus data yang ada dalam database. Tabel tersebut masih menunjukkan data-data seperti kode obat a001 untuk “rhinos sr” hingga b004 untuk “multivitamin”, lengkap dengan kategori dan kode satuan masing-masing.
 
 
 
