@@ -2,7 +2,7 @@
 
 # 🎉  SISTEM CRUD "APLIKASI MANAJEMEN OBAT OBATAN APOTEK"
 
-<img width="488" height="580" alt="Image" src="https://github.com/user-attachments/assets/30cb911c-0384-4654-9413-ad488137d6d9" />
+<img width="388" height="480" alt="Image" src="https://github.com/user-attachments/assets/30cb911c-0384-4654-9413-ad488137d6d9" />
 
 🔹 Aplikasi Java pada gambar tersebut adalah aplikasi manajemen data obat sederhana dengan fungsi CRUD (Create, Read, Update, Delete).
 
@@ -38,10 +38,6 @@ Aplikasi ini bisa dikembangkan lebih lanjut menjadi sistem inventori lengkap yan
 - Tombol Reset
 - TABEL
 
-## 🚀 Memulai
+## 🚀 Berikut beberapa penjelasan dari setiap fitur
 
-### Prasyarat
-- 
-  
 
-### Instalasi
