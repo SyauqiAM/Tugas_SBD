@@ -38,6 +38,12 @@ Aplikasi ini bisa dikembangkan lebih lanjut menjadi sistem inventori lengkap yan
 - Tombol Reset
 - TABEL
 
-## 🚀 Berikut beberapa penjelasan dari setiap fitur
+## 🚀 Berikut beberapa penjelasan dari setiap Gambar
+
+<img width="232" height="554" alt="Image" src="https://github.com/user-attachments/assets/4194b2bb-a357-4d1f-8bad-ea829bbf1805" />
+
+# dari gambar ini
+
+
 
 
